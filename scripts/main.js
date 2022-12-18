@@ -1,5 +1,5 @@
 
-const ui = require("ui-lib/library");
+const ui = require("ui-lib-noBL/library");
 const blockPlacer = Vars.mods.getMod(this.modName)
 var dialog = null; var button = null;
 
